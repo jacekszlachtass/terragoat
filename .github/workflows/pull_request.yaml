@@ -1,4 +1,4 @@
-name: build
+name: checkov on PRs
 on:
   pull_request
 jobs:
